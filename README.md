@@ -1,4 +1,4 @@
-# Language Icons
+# Programming languages icons
 
  Programming languages icons in svg file
  
